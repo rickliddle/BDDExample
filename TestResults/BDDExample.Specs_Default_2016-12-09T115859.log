@@ -1,0 +1,57 @@
+﻿Discovering target: Default
+Discovering tests from assembly: C:\projects\BDDExample\BDDExample.Specs\bin\Debug\BDDExample.Specs.dll
+Appdomain Disposed
+Test Suite Dump
+#0: BDDExample.Specs/Default - 
+#1: Default - 
+#2: BDDExample.Specs - 
+#3: Calculator - 
+#4: Add two numbers - TestAssembly:BDDExample.Specs/Feature:Calculator/Scenario:Add+two+numbers
+#5: Subtract two numbers - TestAssembly:BDDExample.Specs/Feature:Calculator/Scenario:Subtract+two+numbers
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread
+Thread#0:Scheduler: using testitem #4 for thread
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for BDDExample.Specs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\Rick\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:B:Given I have entered 50 into the calculator
+Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(50) (0.0s)
+Thread#0:B:When I add 70
+Thread#0:T:done: CalculatorSteps.WhenIAdd(70) (0.0s)
+Thread#0:B:Then the result should be 120
+Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBe(120) (0.0s)
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread
+Thread#0:Scheduler: using testitem #5 for thread
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0.1481089 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:B:Given I have entered 70 into the calculator
+Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(70) (0.0s)
+Thread#0:B:When I subtract 50
+Thread#0:T:pending: CalculatorSteps.WhenISubtract(50)
+Thread#0:B:Then the result should be 20
+Thread#0:T:skipped because of previous errors
+Thread#0:T:Pending: One or more step definitions are not implemented yet.
+Thread#0:T:  CalculatorSteps.WhenISubtract(50)
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #5/0 is finished on thread #0 as Pending within 0.0120085 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 2
+Succeeded: 1
+Ignored: 0
+Pending: 1
+Skipped: 0
+Failed: 0

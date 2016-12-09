@@ -1,0 +1,14 @@
+C:\projects\BDDExample\BDDExample.Specs\bin\Debug\Default.srprofile
+C:\projects\BDDExample\BDDExample.Specs\bin\Debug\BDDExample.Specs.dll.config
+C:\projects\BDDExample\BDDExample.Specs\bin\Debug\BDDExample.Specs.dll
+C:\projects\BDDExample\BDDExample.Specs\bin\Debug\BDDExample.Specs.pdb
+C:\projects\BDDExample\BDDExample.Specs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\projects\BDDExample\BDDExample.Specs\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\projects\BDDExample\BDDExample.Specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\projects\BDDExample\BDDExample.Specs\bin\Debug\TechTalk.SpecRun.dll
+C:\projects\BDDExample\BDDExample.Specs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\projects\BDDExample\BDDExample.Specs\obj\Debug\BDDExample.Specs.csprojResolveAssemblyReference.cache
+C:\projects\BDDExample\BDDExample.Specs\obj\Debug\BDDExample.Specs.dll
+C:\projects\BDDExample\BDDExample.Specs\obj\Debug\BDDExample.Specs.pdb
+C:\projects\BDDExample\BDDExample.Specs\bin\Debug\BDDExample.Lib.dll
+C:\projects\BDDExample\BDDExample.Specs\bin\Debug\BDDExample.Lib.pdb

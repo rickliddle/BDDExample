@@ -1,0 +1,5 @@
+C:\projects\BDDExample\BDDExample.Lib\bin\Debug\BDDExample.Lib.dll
+C:\projects\BDDExample\BDDExample.Lib\bin\Debug\BDDExample.Lib.pdb
+C:\projects\BDDExample\BDDExample.Lib\obj\Debug\BDDExample.Lib.csprojResolveAssemblyReference.cache
+C:\projects\BDDExample\BDDExample.Lib\obj\Debug\BDDExample.Lib.dll
+C:\projects\BDDExample\BDDExample.Lib\obj\Debug\BDDExample.Lib.pdb
