@@ -82,7 +82,7 @@ In the dialog box, choose `SpecFlow Feature File` from the list and name it `Cal
 
 Tke a moment to read over the feature file, then right-click somewhere in it and choose `Generate Step Definitions` from the pop-up menu. A new dialog window will appear that looks like this:
 
--- INSERT Images\generatestep.png HERE --
+![Generate Step Dialog](https://raw.githubusercontent.com/rickliddle/BDDExample/master/generatestep.PNG)
 
 Make sure all the boxes are checked - there should be six of them - and then click the `Generate` button. When prompted, save the file as `CalculatorSteps.cs` in the `Steps` folder. Notice that the step text changes colors to indicate that corresponding methods have been generated. Open that new file, or jump directly to it by right-clicking in the feature file and choosing `Go to Step Definition`. The newly generated class will look like this:
 
